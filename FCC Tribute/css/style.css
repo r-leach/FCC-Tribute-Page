@@ -1,0 +1,45 @@
+body{
+	background-color: #83a842;
+	color: #333;
+	font-family: garamond, Palatino;
+	font-size: 16px;
+	line-height: 1.6em;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+#title{
+	background-color: #8fb848;
+	border-radius: 8px;
+	color: #333;
+	font-family: garamond, Palatino;
+	font-size: 20px;
+	text-align: center;
+	padding-top: .5px;
+	padding-bottom: 5px;
+	margin: 10px 45px;
+
+}
+
+#img-div{
+	border: 1px solid #333;
+	padding: 13px 13px;
+	border-radius: 15px;
+	margin-left: 275px;
+	margin-right: 275px;
+	display: block;
+	max-width: 100%;
+	max-height: auto;
+	text-align: center;
+
+
+
+#last-line{
+	font-style: italic;
+	text-align: center;
+}
+
+#tribute-link{
+	font-size: 18px;
+	text-align: center;
+}
